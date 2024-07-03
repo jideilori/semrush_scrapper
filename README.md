@@ -1,6 +1,12 @@
 # Semrush Scrapper
 
 Websites data were scrapped from https://www.semrush.com/trending-websites/us/all
+
+
+Cleaned and merged data can be found [here](https://drive.google.com/file/d/1-3E7JxB-F8PjZHXFynTP2fAt6o0df_26/view?usp=sharing)
+
+
+
 ## Data Description
 | **Column**              | **Definition**                                                                                                                                  |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -34,8 +40,6 @@ Websites data were scrapped from https://www.semrush.com/trending-websites/us/al
 | **site_data**           | Additional data or metrics about the website. Some columns were extracted from here, hence is more data is need it can be extracted from here |
 
 
-
-Cleaned and merged data can be found [here](https://drive.google.com/file/d/1-3E7JxB-F8PjZHXFynTP2fAt6o0df_26/view?usp=sharing)
 
 
 
