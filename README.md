@@ -1,6 +1,6 @@
 # Semrush Scrapper
 
-Websites were scrapper from https://www.semrush.com/trending-websites/us/all
+Websites data were scrapped from https://www.semrush.com/trending-websites/us/all
 ## Data Description
 | **Column**              | **Definition**                                                                                                                                  |
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
