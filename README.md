@@ -6,6 +6,16 @@ Websites data were scrapped from https://www.semrush.com/trending-websites/us/al
 Cleaned and merged data can be found [here](https://drive.google.com/file/d/1-3E7JxB-F8PjZHXFynTP2fAt6o0df_26/view?usp=sharing)
 
 
+Run
+```
+python semrush_scraper.py
+```
+
+then
+
+```
+python scrape_page_details.py
+```
 
 ## Data Description
 | **Column**              | **Definition**                                                                                                                                  |
